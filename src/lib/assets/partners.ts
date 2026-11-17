@@ -10,7 +10,6 @@ export const partnerLogos = [
   { id: "sao-lourenco", image: `${base}/sao-lourenco.png`, alt: "São Lourenço", width: 220, height: 220 },
   { id: "lifestyle-portugal", image: `${base}/lifestyle-portugal.png`, alt: "Lifestyle Portugal", width: 220, height: 220 },
   { id: "bela-vista", image: `${base}/bela-vista.png`, alt: "Bela Vista Hotel & Spa", width: 220, height: 220 },
-  { id: "jardins-do-lago-1", image: `${base}/jardins-do-lago-1.png`, alt: "Quinta Jardins do Lago", width: 220, height: 220 },
   { id: "jardins-do-lago", image: `${base}/jardins-do-lago.png`, alt: "Quinta Jardins do Lago", width: 220, height: 220 },
   { id: "octant", image: `${base}/octant.png`, alt: "Octant Hotels", width: 220, height: 220 },
   { id: "vila-foz", image: `${base}/vila-foz.png`, alt: "Vila Foz Hotel & Spa", width: 220, height: 220 },
